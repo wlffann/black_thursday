@@ -206,4 +206,13 @@ class SalesAnalyst
     engine.items.find_by_id(final_sorted[0][0])
   end
 
+  def generate_merchant_json
+    all_merchants.map do |m| 
+      stuff                   = engine.merchants.to_h(m.id)
+      stuff[:size]            = revenue_by_merchant(m.id).to_f 
+      stuff[:avg_item_price]  = average_item_price_for_merchant(m.id).to_f
+      binding.pry
+    end
+  end
+
 end

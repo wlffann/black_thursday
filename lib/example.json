@@ -1,0 +1,50 @@
+{
+  "name": "merchants",
+  "children": [
+      {"name": "top_twenty_percent", 
+      "size": 3938,
+      "children": [
+        {"name": "merchant.name", 
+        "size": 3812,
+        "children":[{
+            "name": "merchant.items",
+            "size": 3000,
+            "children": [
+              {"name": "merchant.items[0]", "size": 6714},
+              {"name": "merchant.items[1]", "size": 743}
+            ]},
+            {"name": "merchant.customers",
+            "size": 3000,
+            "children": [
+              {"name": "customer.name", "size": 6714},
+              {"name": "customer.name", "size": 743}]},
+            {"name": "merchant.invoices",
+            "size": 3000,
+            "children": [
+              {"name": "invoice.id", 
+              "size": 6714,
+              "children":[{
+                "name": "invoice_item",
+                "size": 200},
+                {"name": "invoice_item",
+                "size": 200}
+              ]},
+              {"name": "invoice.id", "size": 743}]}
+        ]},
+        {"name": "merchant.name", 
+        "size": 6714,
+        "children":[
+          {"name": "merchant.items[0]", "size": 800},
+          {"name": "merchant.items[1]", "size": 743}
+        ]},
+        {"name": "merchant.name", 
+        "size": 743,
+        "children":[
+          {"name": "merchant.items[0]", "size": 5714},
+          {"name": "merchant.items[1]", "size": 743}
+        ]}
+      ]},
+      {"name": "merchant.name", "size": 3812},
+      {"name": "merchant.name", "size": 6714},
+      {"name": "merchant.name", "size": 743}]
+}

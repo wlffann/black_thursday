@@ -1,0 +1,37 @@
+{
+  "name": "merchants",
+  "children": [
+    {
+      "name": "merchant.name",
+      "revenue":"merchant.revenue",
+      "registration":"merchant.registration",
+      "revenue_rank":"merchant.revenue_rank",
+      "children": [
+        {
+          "name":"merchant.items",
+          "children": [
+            { "name":"first_item", "price":"first_price", "id":"first_id","description":"first_description"},
+            { "name":"second_item", "price":"second_price", "id":"second_id","description":"second_description"},
+            { "name":"third_item", "price":"third_price", "id":"third_id","description":"third_description"}
+          ]
+        },
+        {
+          "name":"merchant.customers",
+          "children": [
+            { "name":"first_item", "id":"first_id","description":"first_description"},
+            { "name":"second_item", "id":"second_id","description":"second_description"},
+            { "name":"third_item", "id":"third_id","description":"third_description"}
+          ]
+        },
+        {
+          "name":"merchant.invoices",
+          "children": [
+            { "id":"first_id","description":"is_paid_in_full?",  "items":"first_items"},
+            { "id":"second_id","description":"is_paid_in_full?", "items":"second_items"},
+            { "id":"third_id","description":"is_paid_in_full?", "items":"third_items"}
+          ]
+        }
+      ]
+    }
+  ]
+}
