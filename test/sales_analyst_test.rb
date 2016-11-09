@@ -180,6 +180,6 @@ class SalesAnalystTest < Minitest::Test
   end
 
   def test_that_merchant_json_generates
-    assert_equal "", analyst.generate_merchant_json.first
+    assert_equal "", analyst.generate_merchant_json
   end
 end

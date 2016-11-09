@@ -49,7 +49,7 @@ var pack = d3.pack()
     .size([diameter - margin, diameter - margin])
     .padding(2);
 
-d3.json("example.json", function(error, root) {
+d3.json("json_for_real.json", function(error, root) {
   if (error) throw error;
 
   root = d3.hierarchy(root)
@@ -71,9 +71,10 @@ d3.json("example.json", function(error, root) {
     .data(nodes)
     .enter().append("text")
       .attr("class", "label")
+      <!--.style("font-size", function(d) { return d.parent === root ? "25px" : (Math.min(d.r, (2 * d.r - 8) / this.getComputedTextLength()) + "px"); })-->
       .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
       .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
-      .text(function(d) { return d.data.name; });
+      .text(function(d) { return d.data.name });
 
   var node = g.selectAll("circle,text");
 
