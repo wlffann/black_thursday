@@ -178,4 +178,8 @@ class SalesAnalystTest < Minitest::Test
   def test_analyst_returns_best_item_for_merchant
     assert_equal 58, analyst.best_item_for_merchant(55).id
   end
+
+  def test_that_merchant_json_generates
+    assert_equal "", analyst.generate_merchant_json
+  end
 end

@@ -1,0 +1,1843 @@
+{
+  "name": "merchants",
+  "children": [
+    {
+      "name": "Shopin1901",
+      "stringy": "\n information",
+      "size": 83.8,
+      "children": [
+        {
+          "name": "items",
+          "size": 6,
+          "children": [
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 15.02
+            },
+            {
+              "name": "the simple simon",
+              "stringy": "\n information",
+              "size": 12.52
+            },
+            {
+              "name": "the simple simon",
+              "stringy": "\n information",
+              "size": 17.18
+            },
+            {
+              "name": "the G.O.B.",
+              "stringy": "\n information",
+              "size": 16.09
+            },
+            {
+              "name": "The On the Go-Go Banana",
+              "stringy": "\n information",
+              "size": 14.45
+            },
+            {
+              "name": "510+ RealPush Icon Set",
+              "stringy": "\n information",
+              "size": 12.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 19 Status: shipped",
+              "stringy": "\n information",
+              "size": 83.8,
+              "children": [
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.1274E2"
+                },
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.198E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 21 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Mariah Toy",
+              "stringy": "\n information",
+              "size": 133.8
+            },
+            {
+              "name": "Joey Ondricka",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Candisart",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 4,
+          "children": [
+            {
+              "name": "frozen banana",
+              "stringy": "\n information",
+              "size": 13.8
+            },
+            {
+              "name": "double-dipped frozen",
+              "stringy": "\n information",
+              "size": 18.83
+            },
+            {
+              "name": "The Original Frozen Banana",
+              "stringy": "\n information",
+              "size": 16.36
+            },
+            {
+              "name": "Glitter scrabble frames",
+              "stringy": "\n information",
+              "size": 13.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 13 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1091E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 22 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "GeorgeSr Bluth",
+              "stringy": "\n information",
+              "size": 50.0
+            },
+            {
+              "name": "Cecelia Osinski",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MiniatureBikez",
+      "stringy": "\n information",
+      "size": 73.48,
+      "children": [
+        {
+          "name": "items",
+          "size": 4,
+          "children": [
+            {
+              "name": "the simple simon",
+              "stringy": "\n information",
+              "size": 18.55
+            },
+            {
+              "name": "frozen banana",
+              "stringy": "\n information",
+              "size": 10.27
+            },
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 18.32
+            },
+            {
+              "name": "Disney scrabble frames",
+              "stringy": "\n information",
+              "size": 13.5
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 15 Status: pending",
+              "stringy": "\n information",
+              "size": 73.48,
+              "children": [
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1609E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 23 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Lindsay Funke",
+              "stringy": "\n information",
+              "size": 123.48
+            },
+            {
+              "name": "Mariah Toy",
+              "stringy": "\n information",
+              "size": 133.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LolaMarleys",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 5,
+          "children": [
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 15.66
+            },
+            {
+              "name": "double-dipped frozen",
+              "stringy": "\n information",
+              "size": 14.53
+            },
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 16.5
+            },
+            {
+              "name": "The On the Go-Go Banana",
+              "stringy": "\n information",
+              "size": 12.19
+            },
+            {
+              "name": "Free standing Woden letters",
+              "stringy": "\n information",
+              "size": 7.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 1,
+          "children": [
+            {
+              "name": "ID: 24 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Leanne Braun",
+              "stringy": "\n information",
+              "size": 379.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keckenbauer",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 17.53
+            },
+            {
+              "name": "Vogue Paris Original Givenchy 2307",
+              "stringy": "\n information",
+              "size": 29.99
+            },
+            {
+              "name": "Vogue Italy Original Givenchy 2307",
+              "stringy": "\n information",
+              "size": 29.99
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 25 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            },
+            {
+              "name": "ID: 34 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Sylvester Nader",
+              "stringy": "\n information",
+              "size": 50.0
+            },
+            {
+              "name": "Leanne Braun",
+              "stringy": "\n information",
+              "size": 379.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "perlesemoi",
+      "stringy": "\n information",
+      "size": 670.43,
+      "children": [
+        {
+          "name": "items",
+          "size": 5,
+          "children": [
+            {
+              "name": "The Original Frozen Banana",
+              "stringy": "\n information",
+              "size": 12.93
+            },
+            {
+              "name": "the G.O.B.",
+              "stringy": "\n information",
+              "size": 12.33
+            },
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 11.14
+            },
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 12.69
+            },
+            {
+              "name": "Cache cache �� la plage",
+              "stringy": "\n information",
+              "size": 149.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 3,
+          "children": [
+            {
+              "name": "ID: 1 Status: shipped",
+              "stringy": "\n information",
+              "size": 340.88,
+              "children": [
+                {
+                  "name": "The George Daddy",
+                  "size": "0.1566E2"
+                },
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1091E2"
+                },
+                {
+                  "name": "The George Daddy",
+                  "size": "0.1502E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 12 Status: pending",
+              "stringy": "\n information",
+              "size": 329.55,
+              "children": [
+                {
+                  "name": "the giddy-girly banana",
+                  "size": "0.1164E2"
+                },
+                {
+                  "name": "the simple simon",
+                  "size": "0.1718E2"
+                },
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.1274E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 26 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Maeby Funke",
+              "stringy": "\n information",
+              "size": 6649.36
+            },
+            {
+              "name": "Leanne Braun",
+              "stringy": "\n information",
+              "size": 379.55
+            },
+            {
+              "name": "Heber Kuhn",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GoldenRaySHop",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 2,
+          "children": [
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 17.48
+            },
+            {
+              "name": "Eule - Topflappen",
+              "stringy": "\n information",
+              "size": 14.9
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 1,
+          "children": [
+            {
+              "name": "ID: 27 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Parker Daugherty",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jejum",
+      "stringy": "\n information",
+      "size": 875.53,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "The George Daddy",
+              "stringy": "\n information",
+              "size": 11.51
+            },
+            {
+              "name": "double-dipped frozen",
+              "stringy": "\n information",
+              "size": 19.8
+            },
+            {
+              "name": "Kindersocken",
+              "stringy": "\n information",
+              "size": 6.9
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 2 Status: shipped",
+              "stringy": "\n information",
+              "size": 875.53,
+              "children": [
+                {
+                  "name": "the simple simon",
+                  "size": "0.1252E2"
+                },
+                {
+                  "name": "The George Daddy",
+                  "size": "0.1502E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 28 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Lucille Bluth",
+              "stringy": "\n information",
+              "size": 925.53
+            },
+            {
+              "name": "Loyal Considine",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urcase17",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 5,
+          "children": [
+            {
+              "name": "The On the Go-Go Banana",
+              "stringy": "\n information",
+              "size": 14.73
+            },
+            {
+              "name": "double-dipped frozen",
+              "stringy": "\n information",
+              "size": 15.04
+            },
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 14.32
+            },
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 17.2
+            },
+            {
+              "name": "Course contre la montre",
+              "stringy": "\n information",
+              "size": 400.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 17 Status: returned",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+                {
+                  "name": "The George Daddy",
+                  "size": "0.1151E2"
+                },
+                {
+                  "name": "The Original Frozen Banana",
+                  "size": "0.1636E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 29 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "BowlsByChris",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 4,
+          "children": [
+            {
+              "name": "double-dipped frozen",
+              "stringy": "\n information",
+              "size": 12.74
+            },
+            {
+              "name": "the G.O.B.",
+              "stringy": "\n information",
+              "size": 10.91
+            },
+            {
+              "name": "the giddy-girly banana",
+              "stringy": "\n information",
+              "size": 11.64
+            },
+            {
+              "name": "Etre ailleurs",
+              "stringy": "\n information",
+              "size": 130.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 5 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+                {
+                  "name": "frozen banana",
+                  "size": "0.1027E2"
+                },
+                {
+                  "name": "frozen banana",
+                  "size": "0.138E2"
+                },
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.1453E2"
+                },
+                {
+                  "name": "The Original Frozen Banana",
+                  "size": "0.1293E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 30 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Mariah Toy",
+              "stringy": "\n information",
+              "size": 133.8
+            },
+            {
+              "name": "Ramona Reynolds",
+              "stringy": "\n information",
+              "size": 307.06
+            }
+          ]
+        }
+      ]
+    },
+    "",
+    {
+      "name": "SitwellEnterprises",
+      "stringy": "\n information",
+      "size": 490.54,
+      "children": [
+        {
+          "name": "items",
+          "size": 0,
+          "children": [
+
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 11 Status: shipped",
+              "stringy": "\n information",
+              "size": 262.87,
+              "children": [
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1091E2"
+                },
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.1504E2"
+                },
+                {
+                  "name": "the giddy-girly banana",
+                  "size": "0.172E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 14 Status: pending",
+              "stringy": "\n information",
+              "size": 227.67,
+              "children": [
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1609E2"
+                },
+                {
+                  "name": "the giddy-girly banana",
+                  "size": "0.1432E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "AusteroBluthCompany",
+      "stringy": "\n information",
+      "size": 4735.39,
+      "children": [
+        {
+          "name": "items",
+          "size": 0,
+          "children": [
+
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 7 Status: pending",
+              "stringy": "\n information",
+              "size": 4735.39,
+              "children": [
+                {
+                  "name": "The On the Go-Go Banana",
+                  "size": "0.1219E2"
+                },
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1609E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 33 Status: fail",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "G.O.B. Bluth",
+              "stringy": "\n information",
+              "size": 4785.39
+            }
+          ]
+        }
+      ]
+    },
+    "",
+    "",
+    {
+      "name": "Army",
+      "stringy": "\n information",
+      "size": 1303.25,
+      "children": [
+        {
+          "name": "items",
+          "size": 0,
+          "children": [
+
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 3 Status: shipped",
+              "stringy": "\n information",
+              "size": 1046.19,
+              "children": [
+                {
+                  "name": "the giddy-girly banana",
+                  "size": "0.1753E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 18 Status: shipped",
+              "stringy": "\n information",
+              "size": 257.06,
+              "children": [
+                {
+                  "name": "the G.O.B.",
+                  "size": "0.1609E2"
+                },
+                {
+                  "name": "frozen banana",
+                  "size": "0.138E2"
+                },
+                {
+                  "name": "the giddy-girly banana",
+                  "size": "0.1164E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": null
+        }
+      ]
+    },
+    "",
+    "",
+    {
+      "name": "DrFunkes100PercentNaturalGoodTimeFamilyBandSolution",
+      "stringy": "\n information",
+      "size": 6346.32,
+      "children": [
+        {
+          "name": "items",
+          "size": 0,
+          "children": [
+
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 4 Status: shipped",
+              "stringy": "\n information",
+              "size": 87.84,
+              "children": [
+                {
+                  "name": "the simple simon",
+                  "size": "0.1718E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 8 Status: shipped",
+              "stringy": "\n information",
+              "size": 6258.48,
+              "children": [
+                {
+                  "name": "double-dipped frozen",
+                  "size": "0.1274E2"
+                },
+                {
+                  "name": "The George Daddy",
+                  "size": "0.1566E2"
+                },
+                {
+                  "name": "the simple simon",
+                  "size": "0.1855E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Michael Bluth",
+              "stringy": "\n information",
+              "size": 137.84
+            },
+            {
+              "name": "Maeby Funke",
+              "stringy": "\n information",
+              "size": 6649.36
+            }
+          ]
+        }
+      ]
+    },
+    "",
+    "",
+    {
+      "name": "mugglifeyeg",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "Barry&#39;s Bay",
+              "stringy": "\n information",
+              "size": 300.0
+            },
+            {
+              "name": "Custom Mugs",
+              "stringy": "\n information",
+              "size": 12.0
+            },
+            {
+              "name": "Mason Jar Tumbler",
+              "stringy": "\n information",
+              "size": 15.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 1,
+          "children": [
+            {
+              "name": "ID: 50 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Haylee Barrows",
+              "stringy": "\n information",
+              "size": 15512.09
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NicSueDesigns",
+      "stringy": "\n information",
+      "size": 24672.58,
+      "children": [
+        {
+          "name": "items",
+          "size": 4,
+          "children": [
+            {
+              "name": "Custom Logo Design",
+              "stringy": "\n information",
+              "size": 49.0
+            },
+            {
+              "name": "Hand-Made Gorgeous Olive Green Artisan Batik Hip-Length Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+              "stringy": "\n information",
+              "size": 50.0
+            },
+            {
+              "name": "Capitol Theatre",
+              "stringy": "\n information",
+              "size": 230.0
+            },
+            {
+              "name": "Solid Cherry Trestle Table",
+              "stringy": "\n information",
+              "size": 5500.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 3,
+          "children": [
+            {
+              "name": "ID: 51 Status: shipped",
+              "stringy": "\n information",
+              "size": 15462.09,
+              "children": {
+              }
+            },
+            {
+              "name": "ID: 60 Status: pending",
+              "stringy": "\n information",
+              "size": 9210.49,
+              "children": [
+                {
+                  "name": "Silver Plated Clutch with Swarovski Element Crystals",
+                  "size": "0.719E3"
+                },
+                {
+                  "name": "Capitol Theatre",
+                  "size": "0.23E3"
+                },
+                {
+                  "name": "Capitol Theatre",
+                  "size": "0.23E3"
+                }
+              ]
+            },
+            {
+              "name": "ID: 61 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                },
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Haylee Barrows",
+              "stringy": "\n information",
+              "size": 15512.09
+            },
+            {
+              "name": "Ralph Brown",
+              "stringy": "\n information",
+              "size": 9260.49
+            },
+            {
+              "name": "Floyd Kling",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JaimeLeeLightleArt",
+      "stringy": "\n information",
+      "size": 8547.8,
+      "children": [
+        {
+          "name": "items",
+          "size": 1,
+          "children": [
+            {
+              "name": "Barry&#39;s Bay",
+              "stringy": "\n information",
+              "size": 300.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 52 Status: returned",
+              "stringy": "\n information",
+              "size": 1872.74,
+              "children": [
+                {
+                  "name": "Custom Mugs",
+                  "size": "0.12E2"
+                },
+                {
+                  "name": "Mason Jar Tumbler",
+                  "size": "0.15E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 62 Status: shipped",
+              "stringy": "\n information",
+              "size": 6675.06,
+              "children": [
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                },
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                },
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Dianna Stoltenberg",
+              "stringy": "\n information",
+              "size": 26245.280000000002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JillMariedesigns51",
+      "stringy": "\n information",
+      "size": 7464.34,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "11 Echarpe Velour Dévoré 180x32 cm",
+              "stringy": "\n information",
+              "size": 40.0
+            },
+            {
+              "name": "Summer Storm",
+              "stringy": "\n information",
+              "size": 300.0
+            },
+            {
+              "name": "Hand-Made Beautiful Black and White Flowers Batik Flowing Long Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+              "stringy": "\n information",
+              "size": 40.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 53 Status: pending",
+              "stringy": "\n information",
+              "size": 6481.62,
+              "children": [
+                {
+                  "name": "Hand-Made Gorgeous Olive Green Artisan Batik Hip-Length Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+                  "size": "0.5E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 65 Status: shipped",
+              "stringy": "\n information",
+              "size": 982.72,
+              "children": [
+                {
+                  "name": "US Army wreath",
+                  "size": "0.3E2"
+                },
+                {
+                  "name": "Bird houses",
+                  "size": "0.1E3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Shania Osinski",
+              "stringy": "\n information",
+              "size": 6531.62
+            },
+            {
+              "name": "Dianna Stoltenberg",
+              "stringy": "\n information",
+              "size": 26245.280000000002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Promotionalsearchltd",
+      "stringy": "\n information",
+      "size": 0.0,
+      "children": [
+        {
+          "name": "items",
+          "size": 2,
+          "children": [
+            {
+              "name": "Buffalo Farm",
+              "stringy": "\n information",
+              "size": 200.0
+            },
+            {
+              "name": "Capitol Theatre",
+              "stringy": "\n information",
+              "size": 230.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 1,
+          "children": [
+            {
+              "name": "ID: 54 Status: pending",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+                {
+                  "name": "Capitol Theatre",
+                  "size": "0.23E3"
+                },
+                {
+                  "name": "Solid Cherry Trestle Table",
+                  "size": "0.55E4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Shania Osinski",
+              "stringy": "\n information",
+              "size": 6531.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CreativeBounty",
+      "stringy": "\n information",
+      "size": 34365.66,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "The Red Flannel Collection - Prices Vary on product",
+              "stringy": "\n information",
+              "size": 34.99
+            },
+            {
+              "name": "Triple circle earrings",
+              "stringy": "\n information",
+              "size": 32.0
+            },
+            {
+              "name": "Fish-scale jewellery",
+              "stringy": "\n information",
+              "size": 280.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 4,
+          "children": [
+            {
+              "name": "ID: 55 Status: shipped",
+              "stringy": "\n information",
+              "size": 15828.16,
+              "children": [
+                {
+                  "name": "Barry&#39;s Bay",
+                  "size": "0.3E3"
+                },
+                {
+                  "name": "Barry&#39;s Bay",
+                  "size": "0.3E3"
+                },
+                {
+                  "name": "Barry&#39;s Bay",
+                  "size": "0.3E3"
+                },
+                {
+                  "name": "Barry&#39;s Bay",
+                  "size": "0.3E3"
+                }
+              ]
+            },
+            {
+              "name": "ID: 63 Status: shipped",
+              "stringy": "\n information",
+              "size": 9145.68,
+              "children": [
+                {
+                  "name": "Dog",
+                  "size": "0.12E2"
+                },
+                {
+                  "name": "Dog",
+                  "size": "0.12E2"
+                },
+                {
+                  "name": "Charleston Bridge",
+                  "size": "0.15E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 64 Status: pending",
+              "stringy": "\n information",
+              "size": 8140.76,
+              "children": [
+                {
+                  "name": "Crochet toy from your kids drawing",
+                  "size": "0.5E2"
+                },
+                {
+                  "name": "Crochet toy from your kids drawing",
+                  "size": "0.5E2"
+                },
+                {
+                  "name": "TY Beanie Baby Valentino Bear",
+                  "size": "0.5E1"
+                }
+              ]
+            },
+            {
+              "name": "ID: 66 Status: pending",
+              "stringy": "\n information",
+              "size": 1251.06,
+              "children": [
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Dianna Stoltenberg",
+              "stringy": "\n information",
+              "size": 26245.280000000002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zuzulovevintage",
+      "stringy": "\n information",
+      "size": 6832.23,
+      "children": [
+        {
+          "name": "items",
+          "size": 3,
+          "children": [
+            {
+              "name": "Custom Logo Design",
+              "stringy": "\n information",
+              "size": 49.0
+            },
+            {
+              "name": "Silver Plated Clutch with Swarovski Element Crystals",
+              "stringy": "\n information",
+              "size": 719.0
+            },
+            {
+              "name": "US Army wreath",
+              "stringy": "\n information",
+              "size": 30.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 56 Status: returned",
+              "stringy": "\n information",
+              "size": 4774.75,
+              "children": [
+                {
+                  "name": "11 Echarpe Velour Dévoré 180x32 cm",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "11 Echarpe Velour Dévoré 180x32 cm",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "11 Echarpe Velour Dévoré 180x32 cm",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "11 Echarpe Velour Dévoré 180x32 cm",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "11 Echarpe Velour Dévoré 180x32 cm",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "Summer Storm",
+                  "size": "0.3E3"
+                },
+                {
+                  "name": "Summer Storm",
+                  "size": "0.3E3"
+                }
+              ]
+            },
+            {
+              "name": "ID: 67 Status: shipped",
+              "stringy": "\n information",
+              "size": 2057.48,
+              "children": [
+                {
+                  "name": "Hand-Made Gorgeous Olive Green Artisan Batik Hip-Length Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+                  "size": "0.5E2"
+                },
+                {
+                  "name": "Capitol Theatre",
+                  "size": "0.23E3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Amaya Schamberger",
+              "stringy": "\n information",
+              "size": 8901.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fancybookart",
+      "stringy": "\n information",
+      "size": 6794.24,
+      "children": [
+        {
+          "name": "items",
+          "size": 1,
+          "children": [
+            {
+              "name": "Dog",
+              "stringy": "\n information",
+              "size": 12.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 57 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            },
+            {
+              "name": "ID: 68 Status: shipped",
+              "stringy": "\n information",
+              "size": 6794.24,
+              "children": [
+                {
+                  "name": "Barry&#39;s Bay",
+                  "size": "0.3E3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Amaya Schamberger",
+              "stringy": "\n information",
+              "size": 8901.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GeorgiaFayeDesigns",
+      "stringy": "\n information",
+      "size": 30570.24,
+      "children": [
+        {
+          "name": "items",
+          "size": 2,
+          "children": [
+            {
+              "name": "TY Beanie Baby Valentino Bear",
+              "stringy": "\n information",
+              "size": 5.0
+            },
+            {
+              "name": "Bird houses",
+              "stringy": "\n information",
+              "size": 100.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 5,
+          "children": [
+            {
+              "name": "ID: 58 Status: pending",
+              "stringy": "\n information",
+              "size": 9909.62,
+              "children": [
+                {
+                  "name": "Hand-Made Beautiful Black and White Flowers Batik Flowing Long Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+                  "size": "0.4E2"
+                },
+                {
+                  "name": "Hand-Made Beautiful Black and White Flowers Batik Flowing Long Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+                  "size": "0.4E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 69 Status: shipped",
+              "stringy": "\n information",
+              "size": 3948.24,
+              "children": [
+                {
+                  "name": "Silver Plated Clutch with Swarovski Element Crystals",
+                  "size": "0.719E3"
+                },
+                {
+                  "name": "Silver Plated Clutch with Swarovski Element Crystals",
+                  "size": "0.719E3"
+                }
+              ]
+            },
+            {
+              "name": "ID: 71 Status: shipped",
+              "stringy": "\n information",
+              "size": 50,
+              "children": [
+
+              ]
+            },
+            {
+              "name": "ID: 72 Status: pending",
+              "stringy": "\n information",
+              "size": 3416.39,
+              "children": [
+                {
+                  "name": "Mason Jar Tumbler",
+                  "size": "0.15E2"
+                },
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                }
+              ]
+            },
+            {
+              "name": "ID: 73 Status: shipped",
+              "stringy": "\n information",
+              "size": 13295.99,
+              "children": [
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                },
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                },
+                {
+                  "name": "Hand-Made Gorgeous Olive Green Artisan Batik Hip-Length Vest, Easy Care, Wear Casual, Dressy or Swim Coverup",
+                  "size": "0.5E2"
+                },
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Guido Jerde",
+              "stringy": "\n information",
+              "size": 9603.92
+            },
+            {
+              "name": "Mervin Keeling",
+              "stringy": "\n information",
+              "size": 50.0
+            },
+            {
+              "name": "Annie Homenick",
+              "stringy": "\n information",
+              "size": 16762.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bizuteriaNYC",
+      "stringy": "\n information",
+      "size": 9641.76,
+      "children": [
+        {
+          "name": "items",
+          "size": 2,
+          "children": [
+            {
+              "name": "Charleston Bridge",
+              "stringy": "\n information",
+              "size": 15.0
+            },
+            {
+              "name": "Crochet toy from your kids drawing",
+              "stringy": "\n information",
+              "size": 50.0
+            }
+          ]
+        },
+        {
+          "name": "invoices",
+          "size": 2,
+          "children": [
+            {
+              "name": "ID: 59 Status: shipped",
+              "stringy": "\n information",
+              "size": 4036.08,
+              "children": [
+                {
+                  "name": "Custom Logo Design",
+                  "size": "0.49E2"
+                },
+                {
+                  "name": "Silver Plated Clutch with Swarovski Element Crystals",
+                  "size": "0.719E3"
+                },
+                {
+                  "name": "Capitol Theatre",
+                  "size": "0.23E3"
+                }
+              ]
+            },
+            {
+              "name": "ID: 70 Status: shipped",
+              "stringy": "\n information",
+              "size": 5605.68,
+              "children": {
+              }
+            }
+          ]
+        },
+        {
+          "name": "customers",
+          "size": "customers.revenue_count",
+          "children": [
+            {
+              "name": "Breanne Huels",
+              "stringy": "\n information",
+              "size": 36471.350000000006
+            },
+            {
+              "name": "Guido Jerde",
+              "stringy": "\n information",
+              "size": 9603.92
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

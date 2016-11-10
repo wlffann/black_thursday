@@ -1,10 +1,12 @@
 require 'bigdecimal'
+require 'json'
 require_relative 'statistics'
 require_relative 'date_accessor'
 require_relative 'items_count_analyst'
 require_relative 'items_price_analyst'
 require_relative 'invoice_count_analyst'
 require_relative 'merchants_revenue_analyst'
+require_relative 'visualization'
 
 class SalesAnalyst
   include Statistics
@@ -18,6 +20,7 @@ class SalesAnalyst
     @items_price_analyst = ItemsPriceAnalyst.new(engine)
     @invoice_count_analyst = InvoiceCountAnalyst.new(engine)
     @merchants_revenue_analyst = MerchantsRevenueAnalyst.new(engine)
+    @visualization = Visualization.new(engine.merchants, self)
   end
 
   def_delegators :@items_count_analyst,
@@ -49,4 +52,8 @@ class SalesAnalyst
                     :revenue_by_merchant,
                     :best_item_for_merchant,
                     :most_sold_item_for_merchant
+
+  def_delegator :@visualization,
+                    :generate_merchant_json
+
 end

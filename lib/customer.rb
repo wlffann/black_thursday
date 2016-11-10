@@ -22,4 +22,8 @@ class Customer
     invoices.map { |i| parent.find_merchants_by_merchant_id(i.merchant_id) }
   end
 
+  def invoices
+    parent.find_invoices_by_customer_id(id)
+  end
+
 end

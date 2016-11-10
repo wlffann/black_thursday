@@ -27,5 +27,5 @@ class MerchantTest < Minitest::Test
     m.invoices
     parent.verify
   end
-
+  
 end

@@ -4,6 +4,7 @@ require_relative 'parser'
 
 class MerchantRepository
   include Parser
+
   attr_reader :all,
               :parent
 
