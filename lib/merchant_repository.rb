@@ -1,12 +1,9 @@
 require 'csv'
 require_relative 'merchant'
 require_relative 'parser'
-require_relative 'visualization'
-require 'pry'
 
 class MerchantRepository
   include Parser
-  extend Forwardable
 
   attr_reader :all,
               :parent
@@ -14,10 +11,7 @@ class MerchantRepository
   def initialize(file_path, parent)
     @all    = create_merchants(file_path)
     @parent = parent
-    @visualization = Visualization.new(all)
   end
-
-  def_delegator :@visualization, :to_h
 
   def create_merchants(file_path)
     data_rows = parse_merchants_csv(file_path)
